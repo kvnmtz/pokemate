@@ -1,0 +1,83 @@
+{
+    "typeCalculator": "Type Calculator",
+    "teamBuilder": "Team Builder",
+    "settings": "Settings",
+    "searchPokemon": "Search Pokémon",
+    "firstType": "First type",
+    "secondType": "Second type",
+    "typeNone": "None",
+    "takesXDamageFrom": "Takes {factor} damage from",
+    "@takesXDamageFrom": {
+        "placeholders": {
+            "factor": {}
+        }
+    },
+    "load": "Load",
+    "save": "Save",
+    "clear": "Clear",
+    "delete": "Delete",
+    "savedTeams": "Saved teams",
+    "noSavedTeams": "No teams saved yet.",
+    "giveTeamName": "Give your team a name",
+    "name": "Name",
+    "overwriteTeamTitle": "Overwrite team",
+    "overwriteTeamDesc": "A team with this name already exists. Do you want to overwrite it?",
+    "yes": "Yes",
+    "no": "No",
+    "cancel": "Cancel",
+    "remove": "Remove",
+    "submit": "Submit",
+    "species": "Species",
+    "attackNoX": "Move #{number}",
+    "@attackNoX": {
+        "placeholders": {
+            "number": {}
+        }
+    },
+    "weaknesses": "Weaknesses",
+    "weaknessesNone": "(None)",
+    "offensiveCoverage": "Offensive coverage",
+    "teamHitsXSuperEffectively": "This team can hit {covered} / {total} Pokémon super-effectively (including alternative forms).",
+    "@teamHitsXSuperEffectively": {
+        "placeholders": {
+            "covered": {},
+            "total": {}
+        }
+    },
+    "teamCantHitAnything": "This team can't hit any Pokémon super-effectively.",
+    "notCoveredPokemon": "Pokémon that cannot be hit super-effectively:",
+    "darkTheme": "Dark Mode",
+    "language": "Language",
+    "multiLanguageSearch": "Multi-Language-Search",
+    "multiLanguageSearchDesc": "Search function includes results from all languages",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "registerNewAccount": "Register new account",
+    "username": "Username",
+    "password": "Password",
+    "initializationErrorDescriptionWeb": "Error while loading data.\nAn active internet connection is required.",
+    "initializationErrorDescription": "Error while loading data.\nThe initialization process requires an internet connection once.",
+    "tryAgain": "Try again",
+    "ok": "OK",
+    "successLogout": "Logout successful.",
+    "errorNoPokemon": "You need at least one Pokémon in your team.",
+    "errorNoSpecies": "Please provide a species.",
+    "errorNoMoves": "Please provide at least one move.",
+    "errorLoadingTeams": "Something went wrong while loading your teams.",
+    "errorDeletingTeam": "Something went wrong while deleting the team.",
+    "errorLoginFailed": "Login failed.",
+    "errorRegistrationFailed": "Registration failed.",
+    "errorNoName": "Please enter a name.",
+    "errorSavingTeam": "Something went wrong while saving.",
+    "errorSessionInvalid": "Your session is invalid. Please try logging in again.",
+    "errorNotLoggedIn": "You are not logged in.",
+    "errorWhileInitializing": "Error while loading data.",
+    "errorDetails": "Error details",
+    "showDetails": "Details",
+    "successSaveTeam": "The team has been saved.",
+    "successLoadTeam": "The selected team has been loaded.",
+    "viewingOutdatedVersion": "You're seeing an outdated version",
+    "fixingOutdatedCache": "Your browser caches this website in order to load it faster.\nIt has cached an older version of this page, which you are seeing right now.\nYou can fix this by hard-refreshing the page by pressing Ctrl+F5 or Ctrl+Shift+R.",
+    "keepUsingOutdatedVersion": "Keep using outdated version"
+}

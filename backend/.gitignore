@@ -1,0 +1,8 @@
+node_modules/
+
+*-lock.json
+
+# .env files, except for the template
+*.env
+*.env.*
+!*.env.template

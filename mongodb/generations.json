@@ -1,0 +1,56 @@
+[
+  {
+    "number": 1,
+    "examples_en": "Red, Blue, Yellow",
+    "examples_de": "Rot, Blau, Gelb",
+    "pokemon_id_upper_bound": 151
+  },
+  {
+    "number": 2,
+    "examples_en": "Gold, Silver, Crystal",
+    "examples_de": "Gold, Silber, Kristall",
+    "pokemon_id_upper_bound": 251
+  },
+  {
+    "number": 3,
+    "examples_en": "Ruby, Sapphire, Emerald",
+    "examples_de": "Rubin, Sapphir, Smaragd",
+    "pokemon_id_upper_bound": 386
+  },
+  {
+    "number": 4,
+    "examples_en": "Diamond, Pearl, Platinum",
+    "examples_de": "Diamant, Perl, Platin",
+    "pokemon_id_upper_bound": 493
+  },
+  {
+    "number": 5,
+    "examples_en": "Black, White, Black 2, White 2",
+    "examples_de": "Schwarz, Weiß, Schwarz 2, Weiß 2",
+    "pokemon_id_upper_bound": 649
+  },
+  {
+    "number": 6,
+    "examples_en": "X, Y, Omega Ruby, Alpha Sapphire",
+    "examples_de": "X, Y, Omega Rubin, Alpha Sapphir",
+    "pokemon_id_upper_bound": 721
+  },
+  {
+    "number": 7,
+    "examples_en": "Sun, Moon, Ultra Sun, Ultra Moon",
+    "examples_de": "Sonne, Mond, Ultra Sonne, Ultra Mond",
+    "pokemon_id_upper_bound": 809
+  },
+  {
+    "number": 8,
+    "examples_en": "Sword, Shield, Legends: Arceus",
+    "examples_de": "Schwert, Schild, Legenden: Arceus",
+    "pokemon_id_upper_bound": 905
+  },
+  {
+    "number": 9,
+    "examples_en": "Scarlet, Violet",
+    "examples_de": "Karmesin, Purpur",
+    "pokemon_id_upper_bound": 1025
+  }
+]

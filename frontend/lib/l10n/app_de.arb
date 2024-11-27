@@ -1,0 +1,83 @@
+{
+    "typeCalculator": "Typenrechner",
+    "teamBuilder": "Team-Planer",
+    "settings": "Einstellungen",
+    "searchPokemon": "Pokémon suchen",
+    "firstType": "Erster Typ",
+    "secondType": "Zweiter Typ",
+    "typeNone": "Keiner",
+    "takesXDamageFrom": "Nimmt {factor} Schaden von",
+    "@takesXDamageFrom": {
+        "placeholders": {
+            "factor": {}
+        }
+    },
+    "load": "Laden",
+    "save": "Speichern",
+    "clear": "Leeren",
+    "delete": "Löschen",
+    "savedTeams": "Gespeicherte Teams",
+    "noSavedTeams": "Bis jetzt wurden noch keine Teams gespeichert.",
+    "giveTeamName": "Gib dem Team einen Namen",
+    "name": "Name",
+    "overwriteTeamTitle": "Team überschreiben",
+    "overwriteTeamDesc": "Es existiert bereits ein Team mit diesem Namen. Möchtest du es überschreiben?",
+    "yes": "Ja",
+    "no": "Nein",
+    "cancel": "Abbrechen",
+    "remove": "Entfernen",
+    "submit": "Bestätigen",
+    "species": "Spezies",
+    "attackNoX": "Attacke #{number}",
+    "@attackNoX": {
+        "placeholders": {
+            "number": {}
+        }
+    },
+    "weaknesses": "Schwächen",
+    "weaknessesNone": "(Keine)",
+    "offensiveCoverage": "Offensive Abdeckung",
+    "teamHitsXSuperEffectively": "Dieses Team kann {covered} / {total} Pokémon sehr effektiv treffen (inklusive alternativer Formen).",
+    "@teamHitsXSuperEffectively": {
+        "placeholders": {
+            "covered": {},
+            "total": {}
+        }
+    },
+    "teamCantHitAnything": "Dieses Team kann keine Pokémon sehr effektiv treffen.",
+    "notCoveredPokemon": "Pokémon, die nicht sehr effektiv getroffen werden können:",
+    "darkTheme": "Dunkles Design",
+    "language": "Sprache",
+    "multiLanguageSearch": "Multi-Sprach-Suche",
+    "multiLanguageSearchDesc": "Suchfunktion bezieht Ergebnisse aus allen Sprachen ein",
+    "logout": "Abmelden",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "registerNewAccount": "Neuen Account registrieren",
+    "username": "Nutzername",
+    "password": "Passwort",
+    "initializationErrorDescriptionWeb": "Fehler während des Ladevorgangs.\nEs wird eine aktive Internetverbindung benötigt.",
+    "initializationErrorDescription": "Fehler während des Ladevorgangs.\nZur Initialisierung wird beim ersten Start eine Internetverbindung benötigt.",
+    "tryAgain": "Nochmal versuchen",
+    "ok": "OK",
+    "successLogout": "Abmeldung erfolgreich.",
+    "errorNoPokemon": "Du brauchst mindestens ein Pokémon in deinem Team.",
+    "errorNoSpecies": "Bitte gib eine Spezies an.",
+    "errorNoMoves": "Bitte gib mindestens eine Attacke an.",
+    "errorLoadingTeams": "Es gab ein Problem beim Laden deiner Teams.",
+    "errorDeletingTeam": "Es gab ein Problem beim Löschen des Teams.",
+    "errorLoginFailed": "Login fehlgeschlagen.",
+    "errorRegistrationFailed": "Registrierung fehlgeschlagen.",
+    "errorNoName": "Bitte gib einen Namen an.",
+    "errorSavingTeam": "Es gab ein Problem beim Speichern des Teams.",
+    "errorSessionInvalid": "Die Sitzung ist abgelaufen. Bitte melde dich erneut an.",
+    "errorNotLoggedIn": "Du bist nicht angemeldet.",
+    "errorWhileInitializing": "Fehler während des Ladevorgangs.",
+    "errorDetails": "Fehlerdetails",
+    "showDetails": "Details",
+    "successSaveTeam": "Das Team wurde gespeichert.",
+    "successLoadTeam": "Das gewählte Team wurde geladen.",
+    "viewingOutdatedVersion": "Du siehst eine veraltete Version",
+    "fixingOutdatedCache": "Dein Browser speichert diese Webseite zwischen, um sie schneller anzeigen zu können.\nEs wurde eine inzwischen veraltete Version dieser Seite gespeichert, die dir jetzt gerade angezeigt wird.\nDas Problem lässt sich durch einen Hard-Refresh beheben, drücke dazu Strg+F5 oder Strg+Umschalt+R.",
+    "keepUsingOutdatedVersion": "Veraltete Version beibehalten"
+}

@@ -1,0 +1,6609 @@
+[
+  {
+    "since_generation": 7,
+    "name_en": "10,000,000 Volt Thunderbolt",
+    "name_de": "Tausendfacher Donnerblitz",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Absorb",
+    "name_de": "Absorber",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Accelerock",
+    "name_de": "Turbofelsen",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Acid",
+    "name_de": "Säure",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Acid Armor",
+    "name_de": "Säurepanzer",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Acid Downpour",
+    "name_de": "Vernichtender Säureregen",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Acid Downpour",
+    "name_de": "Vernichtender Säureregen",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Acid Spray",
+    "name_de": "Säurespeier",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Acrobatics",
+    "name_de": "Akrobatik",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Acupressure",
+    "name_de": "Akupressur",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Aerial Ace",
+    "name_de": "Aero-Ass",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Aeroblast",
+    "name_de": "Luftstoß",
+    "class": "special",
+    "type": "flying"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "After You",
+    "name_de": "Galanterie",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Agility",
+    "name_de": "Agilität",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Air Cutter",
+    "name_de": "Windschnitt",
+    "class": "special",
+    "type": "flying"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Air Slash",
+    "name_de": "Luftschnitt",
+    "class": "special",
+    "type": "flying"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "All-Out Pummeling",
+    "name_de": "Fulminante Faustschläge",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "All-Out Pummeling",
+    "name_de": "Fulminante Faustschläge",
+    "class": "special",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Alluring Voice",
+    "name_de": "Lockstimme",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Ally Switch",
+    "name_de": "Seitentausch",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Amnesia",
+    "name_de": "Amnesie",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Anchor Shot",
+    "name_de": "Ankerschuss",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Ancient Power",
+    "name_de": "Antik-Kraft",
+    "class": "special",
+    "type": "rock"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Apple Acid",
+    "name_de": "Apfelsäure",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Aqua Cutter",
+    "name_de": "Aquaschnitt",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Aqua Jet",
+    "name_de": "Wasserdüse",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Aqua Ring",
+    "name_de": "Wasserring",
+    "class": "status",
+    "type": "water"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Aqua Step",
+    "name_de": "Wogentanz",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Aqua Tail",
+    "name_de": "Nassschweif",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Armor Cannon",
+    "name_de": "Rüstungskanone",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Arm Thrust",
+    "name_de": "Armstoß",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Aromatherapy",
+    "name_de": "Aromakur",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Aromatic Mist",
+    "name_de": "Duftwolke",
+    "class": "status",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Assist",
+    "name_de": "Zuschuss",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Assurance",
+    "name_de": "Gewissheit",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Astonish",
+    "name_de": "Erstauner",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Astral Barrage",
+    "name_de": "Astralfragmente",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Attack Order",
+    "name_de": "Schlagbefehl",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Attract",
+    "name_de": "Anziehung",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Aura Sphere",
+    "name_de": "Aurasphäre",
+    "class": "special",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Aura Wheel",
+    "name_de": "Aura-Rad",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Aurora Beam",
+    "name_de": "Aurorastrahl",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Aurora Veil",
+    "name_de": "Auroraschleier",
+    "class": "status",
+    "type": "ice"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Autotomize",
+    "name_de": "Autotomie",
+    "class": "status",
+    "type": "steel"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Avalanche",
+    "name_de": "Lawine",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Axe Kick",
+    "name_de": "Fersenkick",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Baby-Doll Eyes",
+    "name_de": "Kulleraugen",
+    "class": "status",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Baddy Bad",
+    "name_de": "Quälzone",
+    "class": "special",
+    "type": "dark"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Baneful Bunker",
+    "name_de": "Bunker",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Barb Barrage",
+    "name_de": "Giftstachelregen",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Barrage",
+    "name_de": "Stakkato",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Barrier",
+    "name_de": "Barriere",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Baton Pass",
+    "name_de": "Stafette",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Beak Blast",
+    "name_de": "Schnabelkanone",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Beat Up",
+    "name_de": "Prügler",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Behemoth Bash",
+    "name_de": "Gigantenstoß",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Behemoth Blade",
+    "name_de": "Gigantenhieb",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Belch",
+    "name_de": "Rülpser",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Belly Drum",
+    "name_de": "Bauchtrommel",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Bestow",
+    "name_de": "Offerte",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Bide",
+    "name_de": "Geduld",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Bind",
+    "name_de": "Klammergriff",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Bite",
+    "name_de": "Biss",
+    "class": "physical",
+    "type": "dark",
+    "changes": [
+      {
+        "prior_to_generation": 2,
+        "type": "normal"
+      }
+    ]
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Bitter Blade",
+    "name_de": "Reueschwert",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Bitter Malice",
+    "name_de": "Niedertracht",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Black Hole Eclipse",
+    "name_de": "Schwarzes Loch des Grauens",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Black Hole Eclipse",
+    "name_de": "Schwarzes Loch des Grauens",
+    "class": "special",
+    "type": "dark"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Blast Burn",
+    "name_de": "Lohekanonade",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Blaze Kick",
+    "name_de": "Feuerfeger",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Blazing Torque",
+    "name_de": "Hitzeturbo",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Bleakwind Storm",
+    "name_de": "Polarorkan",
+    "class": "special",
+    "type": "flying"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Blizzard",
+    "name_de": "Blizzard",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Block",
+    "name_de": "Rückentzug",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Blood Moon",
+    "name_de": "Blutmond",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Bloom Doom",
+    "name_de": "Brillante Blütenpracht",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Bloom Doom",
+    "name_de": "Brillante Blütenpracht",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Blue Flare",
+    "name_de": "Blauflammen",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Body Press",
+    "name_de": "Body Press",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Body Slam",
+    "name_de": "Bodyslam",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Bolt Beak",
+    "name_de": "Schockschnabel",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Bolt Strike",
+    "name_de": "Blitzschlag",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Bone Club",
+    "name_de": "Knochenkeule",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Bonemerang",
+    "name_de": "Knochmerang",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Bone Rush",
+    "name_de": "Knochenhatz",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Boomburst",
+    "name_de": "Überschallknall",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Bounce",
+    "name_de": "Sprungfeder",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Bouncy Bubble",
+    "name_de": "Blubbsauger",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Branch Poke",
+    "name_de": "Zweigstoß",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Brave Bird",
+    "name_de": "Sturzflug",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Breaking Swipe",
+    "name_de": "Breitseite",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Breakneck Blitz",
+    "name_de": "Hyper-Sprintangriff",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Breakneck Blitz",
+    "name_de": "Hyper-Sprintangriff",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Brick Break",
+    "name_de": "Durchbruch",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Brine",
+    "name_de": "Lake",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Brutal Swing",
+    "name_de": "Wirbler",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Bubble",
+    "name_de": "Blubber",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Bubble Beam",
+    "name_de": "Blubbstrahl",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Bug Bite",
+    "name_de": "Käferbiss",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Bug Buzz",
+    "name_de": "Käfergebrumm",
+    "class": "special",
+    "type": "bug"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Bulk Up",
+    "name_de": "Protzer",
+    "class": "status",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Bulldoze",
+    "name_de": "Dampfwalze",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Bullet Punch",
+    "name_de": "Patronenhieb",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Bullet Seed",
+    "name_de": "Kugelsaat",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Burning Bulwark",
+    "name_de": "Flammenschild",
+    "class": "status",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Burning Jealousy",
+    "name_de": "Neidflammen",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Burn Up",
+    "name_de": "Ausbrennen",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Buzzy Buzz",
+    "name_de": "Knisterladung",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Calm Mind",
+    "name_de": "Gedankengut",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Camouflage",
+    "name_de": "Tarnung",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Captivate",
+    "name_de": "Liebreiz",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Catastropika",
+    "name_de": "Perfektes Pika-Projektil",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Ceaseless Edge",
+    "name_de": "Klingenschwall",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Celebrate",
+    "name_de": "Ehrentag",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Charge",
+    "name_de": "Ladevorgang",
+    "class": "status",
+    "type": "electric"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Charge Beam",
+    "name_de": "Ladestrahl",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Charm",
+    "name_de": "Charme",
+    "class": "status",
+    "type": "fairy",
+    "changes": [
+      {
+        "prior_to_generation": 6,
+        "type": "normal"
+      }
+    ]
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Chatter",
+    "name_de": "Geschwätz",
+    "class": "special",
+    "type": "flying"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Chilling Water",
+    "name_de": "Kalte Dusche",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Chilly Reception",
+    "name_de": "Eisige Stimmung",
+    "class": "status",
+    "type": "ice"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Chip Away",
+    "name_de": "Zermürben",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Chloroblast",
+    "name_de": "Chlorostrahl",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Circle Throw",
+    "name_de": "Überkopfwurf",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Clamp",
+    "name_de": "Schnapper",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Clanging Scales",
+    "name_de": "Schuppenrasseln",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Clangorous Soul",
+    "name_de": "Seelentanz",
+    "class": "status",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Clangorous Soulblaze",
+    "name_de": "Rasselnder Seelentanz",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Clear Smog",
+    "name_de": "Klärsmog",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Close Combat",
+    "name_de": "Nahkampf",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Coaching",
+    "name_de": "Coaching",
+    "class": "status",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Coil",
+    "name_de": "Einrollen",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Collision Course",
+    "name_de": "Kollisionskurs",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Combat Torque",
+    "name_de": "Raufturbo",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Comet Punch",
+    "name_de": "Kometenhieb",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Comeuppance",
+    "name_de": "Vendetta",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Confide",
+    "name_de": "Vertrauenssache",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Confuse Ray",
+    "name_de": "Konfusstrahl",
+    "class": "status",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Confusion",
+    "name_de": "Konfusion",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Constrict",
+    "name_de": "Umklammerung",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Continental Crush",
+    "name_de": "Apokalyptische Steinpresse",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Continental Crush",
+    "name_de": "Apokalyptische Steinpresse",
+    "class": "special",
+    "type": "rock"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Conversion",
+    "name_de": "Umwandlung",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Conversion 2",
+    "name_de": "Umwandlung2",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Copycat",
+    "name_de": "Imitator",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Core Enforcer",
+    "name_de": "Sanktionskern",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Corkscrew Crash",
+    "name_de": "Turbo-Spiralkombo",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Corkscrew Crash",
+    "name_de": "Turbo-Spiralkombo",
+    "class": "special",
+    "type": "steel"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Corrosive Gas",
+    "name_de": "Korrosionsgas",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Cosmic Power",
+    "name_de": "Kosmik-Kraft",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Cotton Guard",
+    "name_de": "Watteschild",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Cotton Spore",
+    "name_de": "Baumwollsaat",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Counter",
+    "name_de": "Konter",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Court Change",
+    "name_de": "Seitenwechsel",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Covet",
+    "name_de": "Bezirzer",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Crabhammer",
+    "name_de": "Krabbhammer",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Crafty Shield",
+    "name_de": "Trickschutz",
+    "class": "status",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Cross Chop",
+    "name_de": "Kreuzhieb",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Cross Poison",
+    "name_de": "Giftstreich",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Crunch",
+    "name_de": "Knirscher",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Crush Claw",
+    "name_de": "Zermalmklaue",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Crush Grip",
+    "name_de": "Quetschgriff",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Curse",
+    "name_de": "Fluch",
+    "class": "status",
+    "type": "ghost",
+    "changes": [
+      {
+        "prior_to_generation": 5,
+        "type": "unknown"
+      }
+    ]
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Cut",
+    "name_de": "Zerschneider",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Darkest Lariat",
+    "name_de": "Dark Lariat",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Dark Pulse",
+    "name_de": "Finsteraura",
+    "class": "special",
+    "type": "dark"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Dark Void",
+    "name_de": "Schlummerort",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Dazzling Gleam",
+    "name_de": "Zauberschein",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Decorate",
+    "name_de": "Verzierung",
+    "class": "status",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Defend Order",
+    "name_de": "Blockbefehl",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Defense Curl",
+    "name_de": "Einigler",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Defog",
+    "name_de": "Auflockern",
+    "class": "status",
+    "type": "flying"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Destiny Bond",
+    "name_de": "Abgangsbund",
+    "class": "status",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Detect",
+    "name_de": "Scanner",
+    "class": "status",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Devastating Drake",
+    "name_de": "Drastisches Drachendröhnen",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Devastating Drake",
+    "name_de": "Drastisches Drachendröhnen",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Diamond Storm",
+    "name_de": "Diamantsturm",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Dig",
+    "name_de": "Schaufler",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Dire Claw",
+    "name_de": "Unheilsklauen",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Disable",
+    "name_de": "Aussetzer",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Disarming Voice",
+    "name_de": "Säuselstimme",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Discharge",
+    "name_de": "Ladungsstoß",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Dive",
+    "name_de": "Taucher",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Dizzy Punch",
+    "name_de": "Irrschlag",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Doodle",
+    "name_de": "Abpausen",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Doom Desire",
+    "name_de": "Kismetwunsch",
+    "class": "special",
+    "type": "steel"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Double-Edge",
+    "name_de": "Risikotackle",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Double Hit",
+    "name_de": "Doppelschlag",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Double Iron Bash",
+    "name_de": "Panzerfäuste",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Double Kick",
+    "name_de": "Doppelkick",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Double Shock",
+    "name_de": "Zweifachladung",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Double Slap",
+    "name_de": "Duplexhieb",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Double Team",
+    "name_de": "Doppelteam",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Draco Meteor",
+    "name_de": "Draco Meteor",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Dragon Ascent",
+    "name_de": "Zenitstürmer",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Dragon Breath",
+    "name_de": "Feuerodem",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Dragon Cheer",
+    "name_de": "Drachenschrei",
+    "class": "status",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Dragon Claw",
+    "name_de": "Drachenklaue",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Dragon Dance",
+    "name_de": "Drachentanz",
+    "class": "status",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Dragon Darts",
+    "name_de": "Drachenpfeile",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Dragon Energy",
+    "name_de": "Drachenkräfte",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Dragon Hammer",
+    "name_de": "Drachenhammer",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Dragon Pulse",
+    "name_de": "Drachenpuls",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Dragon Rage",
+    "name_de": "Drachenwut",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Dragon Rush",
+    "name_de": "Drachenstoß",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Dragon Tail",
+    "name_de": "Drachenrute",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Draining Kiss",
+    "name_de": "Diebeskuss",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Drain Punch",
+    "name_de": "Ableithieb",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Dream Eater",
+    "name_de": "Traumfresser",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Drill Peck",
+    "name_de": "Bohrschnabel",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Drill Run",
+    "name_de": "Schlagbohrer",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Drum Beating",
+    "name_de": "Trommelschläge",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Dual Chop",
+    "name_de": "Doppelhieb",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Dual Wingbeat",
+    "name_de": "Doppelflügel",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Dynamax Cannon",
+    "name_de": "Dynamax-Kanone",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Dynamic Punch",
+    "name_de": "Wuchtschlag",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Earth Power",
+    "name_de": "Erdkräfte",
+    "class": "special",
+    "type": "ground"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Earthquake",
+    "name_de": "Erdbeben",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Echoed Voice",
+    "name_de": "Widerhall",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Eerie Impulse",
+    "name_de": "Mystowellen",
+    "class": "status",
+    "type": "electric"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Eerie Spell",
+    "name_de": "Schauderspruch",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Egg Bomb",
+    "name_de": "Eierbombe",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Electric Terrain",
+    "name_de": "Elektrofeld",
+    "class": "status",
+    "type": "electric"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Electrify",
+    "name_de": "Elektrifizierung",
+    "class": "status",
+    "type": "electric"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Electro Ball",
+    "name_de": "Elektroball",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Electro Drift",
+    "name_de": "Blitztour",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Electro Shot",
+    "name_de": "Stromstrahl",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Electroweb",
+    "name_de": "Elektronetz",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Embargo",
+    "name_de": "Itemsperre",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Ember",
+    "name_de": "Glut",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Encore",
+    "name_de": "Zugabe",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Endeavor",
+    "name_de": "Notsituation",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Endure",
+    "name_de": "Ausdauer",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Energy Ball",
+    "name_de": "Energieball",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Entrainment",
+    "name_de": "Zwango",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Eruption",
+    "name_de": "Eruption",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Esper Wing",
+    "name_de": "Auraschwingen",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Eternabeam",
+    "name_de": "Unendynastrahlen",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Expanding Force",
+    "name_de": "Flächenmacht",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Explosion",
+    "name_de": "Explosion",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Extrasensory",
+    "name_de": "Sondersensor",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Extreme Evoboost",
+    "name_de": "Macht der Neun",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Extreme Speed",
+    "name_de": "Turbotempo",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Facade",
+    "name_de": "Fassade",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Fairy Lock",
+    "name_de": "Feenschloss",
+    "class": "status",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Fairy Wind",
+    "name_de": "Feenbrise",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Fake Out",
+    "name_de": "Mogelhieb",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Fake Tears",
+    "name_de": "Trugträne",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "False Surrender",
+    "name_de": "Kniefalltrick",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "False Swipe",
+    "name_de": "Trugschlag",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Feather Dance",
+    "name_de": "Daunenreigen",
+    "class": "status",
+    "type": "flying"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Feint",
+    "name_de": "Offenlegung",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Feint Attack",
+    "name_de": "Finte",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Fell Stinger",
+    "name_de": "Stachelfinale",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Fickle Beam",
+    "name_de": "Launenlaser",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Fiery Dance",
+    "name_de": "Feuerreigen",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Fiery Wrath",
+    "name_de": "Brennender Zorn",
+    "class": "special",
+    "type": "dark"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Fillet Away",
+    "name_de": "Abspaltung",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Final Gambit",
+    "name_de": "Wagemut",
+    "class": "special",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Fire Blast",
+    "name_de": "Feuersturm",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Fire Fang",
+    "name_de": "Feuerzahn",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Fire Lash",
+    "name_de": "Feuerpeitsche",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Fire Pledge",
+    "name_de": "Feuersäulen",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Fire Punch",
+    "name_de": "Feuerschlag",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Fire Spin",
+    "name_de": "Feuerwirbel",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "First Impression",
+    "name_de": "Überrumpler",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Fishious Rend",
+    "name_de": "Kiemenbiss",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Fissure",
+    "name_de": "Geofissur",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Flail",
+    "name_de": "Dreschflegel",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Flame Burst",
+    "name_de": "Funkenflug",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Flame Charge",
+    "name_de": "Nitroladung",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Flamethrower",
+    "name_de": "Flammenwurf",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Flame Wheel",
+    "name_de": "Flammenrad",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Flare Blitz",
+    "name_de": "Flammenblitz",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Flash",
+    "name_de": "Blitz",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Flash Cannon",
+    "name_de": "Lichtkanone",
+    "class": "special",
+    "type": "steel"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Flatter",
+    "name_de": "Schmeichler",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Fleur Cannon",
+    "name_de": "Kanonenbouquet",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Fling",
+    "name_de": "Schleuder",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Flip Turn",
+    "name_de": "Rollwende",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Floaty Fall",
+    "name_de": "Schwebesturz",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Floral Healing",
+    "name_de": "Florakur",
+    "class": "status",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Flower Shield",
+    "name_de": "Floraschutz",
+    "class": "status",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Flower Trick",
+    "name_de": "Blumentrick",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Fly",
+    "name_de": "Fliegen",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Flying Press",
+    "name_de": "Flying Press",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Focus Blast",
+    "name_de": "Fokusstoß",
+    "class": "special",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Focus Energy",
+    "name_de": "Energiefokus",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Focus Punch",
+    "name_de": "Power-Punch",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Follow Me",
+    "name_de": "Spotlight",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Force Palm",
+    "name_de": "Kraftwelle",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Foresight",
+    "name_de": "Scharfblick",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Forest’s Curse",
+    "name_de": "Waldesfluch",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Foul Play",
+    "name_de": "Schmarotzer",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Freeze-Dry",
+    "name_de": "Gefriertrockner",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Freeze Shock",
+    "name_de": "Frostvolt",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Freezing Glare",
+    "name_de": "Eisiger Blick",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Freezy Frost",
+    "name_de": "Klirrfrost",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Frenzy Plant",
+    "name_de": "Flora-Statue",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Frost Breath",
+    "name_de": "Eisesodem",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Frustration",
+    "name_de": "Frustration",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Fury Attack",
+    "name_de": "Furienschlag",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Fury Cutter",
+    "name_de": "Zornklinge",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Fury Swipes",
+    "name_de": "Kratzfurie",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Fusion Bolt",
+    "name_de": "Kreuzdonner",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Fusion Flare",
+    "name_de": "Kreuzflamme",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Future Sight",
+    "name_de": "Seher",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Gastro Acid",
+    "name_de": "Magensäfte",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Gear Grind",
+    "name_de": "Klikkdiskus",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Gear Up",
+    "name_de": "Hilfsmechanik",
+    "class": "status",
+    "type": "steel"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Genesis Supernova",
+    "name_de": "Supernova des Ursprungs",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Geomancy",
+    "name_de": "Geokontrolle",
+    "class": "status",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Giga Drain",
+    "name_de": "Gigasauger",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Giga Impact",
+    "name_de": "Gigastoß",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Gigaton Hammer",
+    "name_de": "Riesenhammer",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Gigavolt Havoc",
+    "name_de": "Gigavolt-Funkensalve",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Gigavolt Havoc",
+    "name_de": "Gigavolt-Funkensalve",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Glacial Lance",
+    "name_de": "Blizzardlanze",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Glaciate",
+    "name_de": "Eiszeit",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Glaive Rush",
+    "name_de": "Großklingenstoß",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Glare",
+    "name_de": "Schlangenblick",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Glitzy Glow",
+    "name_de": "Pulsieraura",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Grass Knot",
+    "name_de": "Strauchler",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Grass Pledge",
+    "name_de": "Pflanzensäulen",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Grass Whistle",
+    "name_de": "Grasflöte",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Grassy Glide",
+    "name_de": "Grasrutsche",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Grassy Terrain",
+    "name_de": "Grasfeld",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Grav Apple",
+    "name_de": "Gravitation",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Gravity",
+    "name_de": "Erdanziehung",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Growl",
+    "name_de": "Heuler",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Growth",
+    "name_de": "Wachstum",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Grudge",
+    "name_de": "Nachspiel",
+    "class": "status",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Guardian of Alola",
+    "name_de": "Alolas Wächter",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Guard Split",
+    "name_de": "Schutzteiler",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Guard Swap",
+    "name_de": "Schutztausch",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Guillotine",
+    "name_de": "Guillotine",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Gunk Shot",
+    "name_de": "Mülltreffer",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Gust",
+    "name_de": "Windstoß",
+    "class": "special",
+    "type": "flying",
+    "changes": [
+      {
+        "prior_to_generation": 2,
+        "type": "normal"
+      }
+    ]
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Gyro Ball",
+    "name_de": "Gyroball",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Hail",
+    "name_de": "Hagelsturm",
+    "class": "status",
+    "type": "ice"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Hammer Arm",
+    "name_de": "Hammerarm",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Happy Hour",
+    "name_de": "Goldene Zeiten",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Harden",
+    "name_de": "Härtner",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Hard Press",
+    "name_de": "Stahlpresse",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Haze",
+    "name_de": "Dunkelnebel",
+    "class": "status",
+    "type": "ice"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Headbutt",
+    "name_de": "Kopfnuss",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Head Charge",
+    "name_de": "Steinschädel",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Headlong Rush",
+    "name_de": "Schmetterramme",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Head Smash",
+    "name_de": "Kopfstoß",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Heal Bell",
+    "name_de": "Vitalglocke",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Heal Block",
+    "name_de": "Heilblockade",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Healing Wish",
+    "name_de": "Heilopfer",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Heal Order",
+    "name_de": "Heilbefehl",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Heal Pulse",
+    "name_de": "Heilwoge",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Heart Stamp",
+    "name_de": "Herzstempel",
+    "class": "physical",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Heart Swap",
+    "name_de": "Statustausch",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Heat Crash",
+    "name_de": "Brandstempel",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Heat Wave",
+    "name_de": "Hitzewelle",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Heavy Slam",
+    "name_de": "Rammboss",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Helping Hand",
+    "name_de": "Rechte Hand",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Hex",
+    "name_de": "Bürde",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Hidden Power",
+    "name_de": "Kraftreserve",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "High Horsepower",
+    "name_de": "Pferdestärke",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "High Jump Kick",
+    "name_de": "Turmkick",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Hold Back",
+    "name_de": "Zurückhaltung",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Hold Hands",
+    "name_de": "Händchenhalten",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Hone Claws",
+    "name_de": "Klauenwetzer",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Horn Attack",
+    "name_de": "Hornattacke",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Horn Drill",
+    "name_de": "Hornbohrer",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Horn Leech",
+    "name_de": "Holzgeweih",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Howl",
+    "name_de": "Jauler",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Hurricane",
+    "name_de": "Orkan",
+    "class": "special",
+    "type": "flying"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Hydro Cannon",
+    "name_de": "Aquahaubitze",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Hydro Pump",
+    "name_de": "Hydropumpe",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Hydro Steam",
+    "name_de": "Hydrodampf",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Hydro Vortex",
+    "name_de": "Super-Wassertornado",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Hydro Vortex",
+    "name_de": "Super-Wassertornado",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Hyper Beam",
+    "name_de": "Hyperstrahl",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Hyper Drill",
+    "name_de": "Hyperbohrer",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Hyper Fang",
+    "name_de": "Hyperzahn",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Hyperspace Fury",
+    "name_de": "Dimensionswahn",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Hyperspace Hole",
+    "name_de": "Dimensionsloch",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Hyper Voice",
+    "name_de": "Schallwelle",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Hypnosis",
+    "name_de": "Hypnose",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Ice Ball",
+    "name_de": "Frostbeule",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Ice Beam",
+    "name_de": "Eisstrahl",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Ice Burn",
+    "name_de": "Frosthauch",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Ice Fang",
+    "name_de": "Eiszahn",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Ice Hammer",
+    "name_de": "Eishammer",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Ice Punch",
+    "name_de": "Eishieb",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Ice Shard",
+    "name_de": "Eissplitter",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Ice Spinner",
+    "name_de": "Eiskreisel",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Icicle Crash",
+    "name_de": "Eiszapfhagel",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Icicle Spear",
+    "name_de": "Eisspeer",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Icy Wind",
+    "name_de": "Eissturm",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Imprison",
+    "name_de": "Begrenzer",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Incinerate",
+    "name_de": "Einäschern",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Infernal Parade",
+    "name_de": "Phantomparade",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Inferno",
+    "name_de": "Inferno",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Inferno Overdrive",
+    "name_de": "Dynamische Maxiflamme",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Inferno Overdrive",
+    "name_de": "Dynamische Maxiflamme",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Infestation",
+    "name_de": "Plage",
+    "class": "special",
+    "type": "bug"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Ingrain",
+    "name_de": "Verwurzler",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Instruct",
+    "name_de": "Kommando",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Ion Deluge",
+    "name_de": "Plasmaschauer",
+    "class": "status",
+    "type": "electric"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Iron Defense",
+    "name_de": "Eisenabwehr",
+    "class": "status",
+    "type": "steel"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Iron Head",
+    "name_de": "Eisenschädel",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Iron Tail",
+    "name_de": "Eisenschweif",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Ivy Cudgel",
+    "name_de": "Rankenkeule",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Jaw Lock",
+    "name_de": "Fesselbiss",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Jet Punch",
+    "name_de": "Düsenhieb",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Judgment",
+    "name_de": "Urteilskraft",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Jump Kick",
+    "name_de": "Sprungkick",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Jungle Healing",
+    "name_de": "Dschungelheilung",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Karate Chop",
+    "name_de": "Karateschlag",
+    "class": "physical",
+    "type": "fighting",
+    "changes": [
+      {
+        "prior_to_generation": 2,
+        "type": "normal"
+      }
+    ]
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Kinesis",
+    "name_de": "Psykraft",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "King’s Shield",
+    "name_de": "Königsschild",
+    "class": "status",
+    "type": "steel"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Knock Off",
+    "name_de": "Abschlag",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Kowtow Cleave",
+    "name_de": "Kniefallspalter",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Land’s Wrath",
+    "name_de": "Bodengewalt",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Laser Focus",
+    "name_de": "Konzentration",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Lash Out",
+    "name_de": "Frustventil",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Last Resort",
+    "name_de": "Zuflucht",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Last Respects",
+    "name_de": "Letzte Ehre",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Lava Plume",
+    "name_de": "Flammensturm",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Leafage",
+    "name_de": "Blattwerk",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Leaf Blade",
+    "name_de": "Laubklinge",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Leaf Storm",
+    "name_de": "Blättersturm",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Leaf Tornado",
+    "name_de": "Grasmixer",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Leech Life",
+    "name_de": "Blutsauger",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Leech Seed",
+    "name_de": "Egelsamen",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Leer",
+    "name_de": "Silberblick",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Let’s Snuggle Forever",
+    "name_de": "Herzliche Knuddelkloppe",
+    "class": "physical",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Lick",
+    "name_de": "Schlecker",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Life Dew",
+    "name_de": "Lebenstropfen",
+    "class": "status",
+    "type": "water"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Light of Ruin",
+    "name_de": "Lux Calamitatis",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Light Screen",
+    "name_de": "Lichtschild",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Light That Burns the Sky",
+    "name_de": "Licht des Erlöschens",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Liquidation",
+    "name_de": "Aquadurchstoß",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Lock-On",
+    "name_de": "Zielschuss",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Lovely Kiss",
+    "name_de": "Todeskuss",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Low Kick",
+    "name_de": "Fußkick",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Low Sweep",
+    "name_de": "Fußtritt",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Lucky Chant",
+    "name_de": "Beschwörung",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Lumina Crash",
+    "name_de": "Lichteinschlag",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Lunar Blessing",
+    "name_de": "Lunargebet",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Lunar Dance",
+    "name_de": "Lunartanz",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Lunge",
+    "name_de": "Anfallen",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Luster Purge",
+    "name_de": "Scheinwerfer",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Mach Punch",
+    "name_de": "Tempohieb",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Magical Leaf",
+    "name_de": "Zauberblatt",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Magical Torque",
+    "name_de": "Zauberturbo",
+    "class": "physical",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Magic Coat",
+    "name_de": "Magiemantel",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Magic Powder",
+    "name_de": "Magiepuder",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Magic Room",
+    "name_de": "Magieraum",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Magma Storm",
+    "name_de": "Lavasturm",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Magnet Bomb",
+    "name_de": "Magnetbombe",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Magnetic Flux",
+    "name_de": "Magnetregler",
+    "class": "status",
+    "type": "electric"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Magnet Rise",
+    "name_de": "Magnetflug",
+    "class": "status",
+    "type": "electric"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Magnitude",
+    "name_de": "Intensität",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Make It Rain",
+    "name_de": "Goldrausch",
+    "class": "special",
+    "type": "steel"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Malicious Moonsault",
+    "name_de": "Hyper Dark Crusher",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Malignant Chain",
+    "name_de": "Giftkettung",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Mat Block",
+    "name_de": "Tatami-Schild",
+    "class": "status",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Matcha Gotcha",
+    "name_de": "Quirlschuss",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Airstream",
+    "name_de": "Dyna-Düse",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Darkness",
+    "name_de": "Dyna-Dunkel",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Flare",
+    "name_de": "Dyna-Brand",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Flutterby",
+    "name_de": "Dyna-Schwarm",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Geyser",
+    "name_de": "Dyna-Flut",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Guard",
+    "name_de": "Dyna-Wall",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Hailstorm",
+    "name_de": "Dyna-Frost",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Knuckle",
+    "name_de": "Dyna-Faust",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Lightning",
+    "name_de": "Dyna-Gewitter",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Mindstorm",
+    "name_de": "Dyna-Kinese",
+    "class": "physical",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Ooze",
+    "name_de": "Dyna-Giftschwall",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Overgrowth",
+    "name_de": "Dyna-Flora",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Phantasm",
+    "name_de": "Dyna-Spuk",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Quake",
+    "name_de": "Dyna-Erdstoß",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Rockfall",
+    "name_de": "Dyna-Brocken",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Starfall",
+    "name_de": "Dyna-Zauber",
+    "class": "physical",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Steelspike",
+    "name_de": "Dyna-Stahlzacken",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Strike",
+    "name_de": "Dyna-Angriff",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Max Wyrmwind",
+    "name_de": "Dyna-Wyrm",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Mean Look",
+    "name_de": "Horrorblick",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Meditate",
+    "name_de": "Meditation",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Me First",
+    "name_de": "Egotrip",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Mega Drain",
+    "name_de": "Megasauger",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Megahorn",
+    "name_de": "Vielender",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Mega Kick",
+    "name_de": "Megakick",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Mega Punch",
+    "name_de": "Megahieb",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Memento",
+    "name_de": "Memento-Mori",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Menacing Moonraze Maelstrom",
+    "name_de": "Geballter Mondlaser",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Metal Burst",
+    "name_de": "Metallstoß",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Metal Claw",
+    "name_de": "Metallklaue",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Metal Sound",
+    "name_de": "Metallsound",
+    "class": "status",
+    "type": "steel"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Meteor Assault",
+    "name_de": "Sternensturm",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Meteor Beam",
+    "name_de": "Meteorstrahl",
+    "class": "special",
+    "type": "rock"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Meteor Mash",
+    "name_de": "Sternenhieb",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Metronome",
+    "name_de": "Metronom",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Mighty Cleave",
+    "name_de": "Wuchtklinge",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Milk Drink",
+    "name_de": "Milchgetränk",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Mimic",
+    "name_de": "Mimikry",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Mind Blown",
+    "name_de": "Knallkopf",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Mind Reader",
+    "name_de": "Willensleser",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Minimize",
+    "name_de": "Komprimator",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Miracle Eye",
+    "name_de": "Wunderauge",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Mirror Coat",
+    "name_de": "Spiegelcape",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Mirror Move",
+    "name_de": "Spiegeltrick",
+    "class": "status",
+    "type": "flying"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Mirror Shot",
+    "name_de": "Spiegelsalve",
+    "class": "special",
+    "type": "steel"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Mist",
+    "name_de": "Weißnebel",
+    "class": "status",
+    "type": "ice"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Mist Ball",
+    "name_de": "Nebelball",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Misty Explosion",
+    "name_de": "Nebelexplosion",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Misty Terrain",
+    "name_de": "Nebelfeld",
+    "class": "status",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Moonblast",
+    "name_de": "Mondgewalt",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Moongeist Beam",
+    "name_de": "Schattenstrahl",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Moonlight",
+    "name_de": "Mondschein",
+    "class": "status",
+    "type": "fairy",
+    "changes": [
+      {
+        "prior_to_generation": 6,
+        "type": "normal"
+      }
+    ]
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Morning Sun",
+    "name_de": "Morgengrauen",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Mortal Spin",
+    "name_de": "Letalwirbler",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Mountain Gale",
+    "name_de": "Frostfallwind",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Mud Bomb",
+    "name_de": "Schlammbombe",
+    "class": "special",
+    "type": "ground"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Muddy Water",
+    "name_de": "Lehmbrühe",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Mud Shot",
+    "name_de": "Lehmschuss",
+    "class": "special",
+    "type": "ground"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Mud-Slap",
+    "name_de": "Lehmschelle",
+    "class": "special",
+    "type": "ground"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Mud Sport",
+    "name_de": "Lehmsuhler",
+    "class": "status",
+    "type": "ground"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Multi-Attack",
+    "name_de": "Multi-Angriff",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Mystical Fire",
+    "name_de": "Magieflamme",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Mystical Power",
+    "name_de": "Mythenkraft",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Nasty Plot",
+    "name_de": "Ränkeschmied",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Natural Gift",
+    "name_de": "Beerenkräfte",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Nature Power",
+    "name_de": "Natur-Kraft",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Nature’s Madness",
+    "name_de": "Naturzorn",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Needle Arm",
+    "name_de": "Nietenranke",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Never-Ending Nightmare",
+    "name_de": "Ewige Nacht",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Never-Ending Nightmare",
+    "name_de": "Ewige Nacht",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Night Daze",
+    "name_de": "Nachtflut",
+    "class": "special",
+    "type": "dark"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Nightmare",
+    "name_de": "Nachtmahr",
+    "class": "status",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Night Shade",
+    "name_de": "Nachtnebel",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Night Slash",
+    "name_de": "Nachthieb",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Noble Roar",
+    "name_de": "Kampfgebrüll",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "No Retreat",
+    "name_de": "Finalformation",
+    "class": "status",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Noxious Torque",
+    "name_de": "Toxiturbo",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Nuzzle",
+    "name_de": "Wangenrubbler",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Oblivion Wing",
+    "name_de": "Unheilsschwingen",
+    "class": "special",
+    "type": "flying"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Obstruct",
+    "name_de": "Abblocker",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Oceanic Operetta",
+    "name_de": "Grandiose Meeressymphonie",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Octazooka",
+    "name_de": "Octazooka",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Octolock",
+    "name_de": "Octoklammer",
+    "class": "status",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Odor Sleuth",
+    "name_de": "Schnüffler",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Ominous Wind",
+    "name_de": "Unheilböen",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Order Up",
+    "name_de": "Auftischen",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Origin Pulse",
+    "name_de": "Ursprungswoge",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Outrage",
+    "name_de": "Wutanfall",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Overdrive",
+    "name_de": "Overdrive",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Overheat",
+    "name_de": "Hitzekoller",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Pain Split",
+    "name_de": "Leidteiler",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Parabolic Charge",
+    "name_de": "Parabolladung",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Parting Shot",
+    "name_de": "Abgangstirade",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Payback",
+    "name_de": "Gegenstoß",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Pay Day",
+    "name_de": "Zahltag",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Peck",
+    "name_de": "Pikser",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Perish Song",
+    "name_de": "Abgesang",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Petal Blizzard",
+    "name_de": "Blütenwirbel",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Petal Dance",
+    "name_de": "Blättertanz",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Phantom Force",
+    "name_de": "Phantomkraft",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Photon Geyser",
+    "name_de": "Photonen-Geysir",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Pika Papow",
+    "name_de": "Pika-Flash",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Pin Missile",
+    "name_de": "Nadelrakete",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Plasma Fists",
+    "name_de": "Plasmafäuste",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Play Nice",
+    "name_de": "Kameradschaft",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Play Rough",
+    "name_de": "Knuddler",
+    "class": "physical",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Pluck",
+    "name_de": "Pflücker",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Poison Fang",
+    "name_de": "Giftzahn",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Poison Gas",
+    "name_de": "Giftwolke",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Poison Jab",
+    "name_de": "Gifthieb",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Poison Powder",
+    "name_de": "Giftpuder",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Poison Sting",
+    "name_de": "Giftstachel",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Poison Tail",
+    "name_de": "Giftschweif",
+    "class": "physical",
+    "type": "poison"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Pollen Puff",
+    "name_de": "Pollenknödel",
+    "class": "special",
+    "type": "bug"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Poltergeist",
+    "name_de": "Poltergeist",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Population Bomb",
+    "name_de": "Mäuseplage",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Pounce",
+    "name_de": "Anspringen",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Pound",
+    "name_de": "Klaps",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Powder",
+    "name_de": "Pulverschleuder",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Powder Snow",
+    "name_de": "Pulverschnee",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Power Gem",
+    "name_de": "Juwelenkraft",
+    "class": "special",
+    "type": "rock"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Power Shift",
+    "name_de": "Kraftwechsel",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Power Split",
+    "name_de": "Kraftteiler",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Power Swap",
+    "name_de": "Krafttausch",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Power Trick",
+    "name_de": "Krafttrick",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Power Trip",
+    "name_de": "Überheblichkeit",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Power-Up Punch",
+    "name_de": "Steigerungshieb",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Power Whip",
+    "name_de": "Blattgeißel",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Precipice Blades",
+    "name_de": "Abgrundsklinge",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Present",
+    "name_de": "Geschenk",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Prismatic Laser",
+    "name_de": "Prisma-Laser",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Protect",
+    "name_de": "Schutzschild",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Psybeam",
+    "name_de": "Psystrahl",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Psyblade",
+    "name_de": "Psychoschneide",
+    "class": "physical",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Psychic",
+    "name_de": "Psychokinese",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Psychic Fangs",
+    "name_de": "Psychobeißer",
+    "class": "physical",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Psychic Noise",
+    "name_de": "Psycholärm",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Psychic Terrain",
+    "name_de": "Psychofeld",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Psycho Boost",
+    "name_de": "Psyschub",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Psycho Cut",
+    "name_de": "Psychoklinge",
+    "class": "physical",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Psycho Shift",
+    "name_de": "Psybann",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Psych Up",
+    "name_de": "Psycho-Plus",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Psyshield Bash",
+    "name_de": "Barrierenstoß",
+    "class": "physical",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Psyshock",
+    "name_de": "Psychoschock",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Psystrike",
+    "name_de": "Psychostoß",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Psywave",
+    "name_de": "Psywelle",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Pulverizing Pancake",
+    "name_de": "Schluss mit lustig",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Punishment",
+    "name_de": "Strafattacke",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Purify",
+    "name_de": "Läuterung",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Pursuit",
+    "name_de": "Verfolgung",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Pyro Ball",
+    "name_de": "Feuerball",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Quash",
+    "name_de": "Verzögerung",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Quick Attack",
+    "name_de": "Ruckzuckhieb",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Quick Guard",
+    "name_de": "Rapidschutz",
+    "class": "status",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Quiver Dance",
+    "name_de": "Falterreigen",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Rage",
+    "name_de": "Raserei",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Rage Fist",
+    "name_de": "Zornesfaust",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Rage Powder",
+    "name_de": "Wutpulver",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Raging Bull",
+    "name_de": "Rasender Stier",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Raging Fury",
+    "name_de": "Flammenwut",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Rain Dance",
+    "name_de": "Regentanz",
+    "class": "status",
+    "type": "water"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Rapid Spin",
+    "name_de": "Turbodreher",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Razor Leaf",
+    "name_de": "Rasierblatt",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Razor Shell",
+    "name_de": "Kalkklinge",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Razor Wind",
+    "name_de": "Klingensturm",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Recover",
+    "name_de": "Genesung",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Recycle",
+    "name_de": "Aufbereitung",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Reflect",
+    "name_de": "Reflektor",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Reflect Type",
+    "name_de": "Typenspiegel",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Refresh",
+    "name_de": "Heilung",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Relic Song",
+    "name_de": "Urgesang",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Rest",
+    "name_de": "Erholung",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Retaliate",
+    "name_de": "Heimzahlung",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Return",
+    "name_de": "Rückkehr",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Revelation Dance",
+    "name_de": "Wecktanz",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Revenge",
+    "name_de": "Vergeltung",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Reversal",
+    "name_de": "Gegenschlag",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Revival Blessing",
+    "name_de": "Vitalsegen",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Rising Voltage",
+    "name_de": "Hochspannung",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Roar",
+    "name_de": "Brüller",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Roar of Time",
+    "name_de": "Zeitenlärm",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Rock Blast",
+    "name_de": "Felswurf",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Rock Climb",
+    "name_de": "Kraxler",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Rock Polish",
+    "name_de": "Steinpolitur",
+    "class": "status",
+    "type": "rock"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Rock Slide",
+    "name_de": "Steinhagel",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Rock Smash",
+    "name_de": "Zertrümmerer",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Rock Throw",
+    "name_de": "Steinwurf",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Rock Tomb",
+    "name_de": "Felsgrab",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Rock Wrecker",
+    "name_de": "Felswerfer",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Role Play",
+    "name_de": "Rollenspiel",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Rolling Kick",
+    "name_de": "Fegekick",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Rollout",
+    "name_de": "Walzer",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Roost",
+    "name_de": "Ruheort",
+    "class": "status",
+    "type": "flying"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Rototiller",
+    "name_de": "Pflüger",
+    "class": "status",
+    "type": "ground"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Round",
+    "name_de": "Kanon",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Ruination",
+    "name_de": "Verderben",
+    "class": "special",
+    "type": "dark"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Sacred Fire",
+    "name_de": "Läuterfeuer",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Sacred Sword",
+    "name_de": "Sanctoklinge",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Safeguard",
+    "name_de": "Bodyguard",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Salt Cure",
+    "name_de": "Pökelsalz",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Sand Attack",
+    "name_de": "Sandwirbel",
+    "class": "status",
+    "type": "ground",
+    "changes": [
+      {
+        "prior_to_generation": 2,
+        "type": "normal"
+      }
+    ]
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Sandsear Storm",
+    "name_de": "Wüstenorkan",
+    "class": "special",
+    "type": "ground"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Sandstorm",
+    "name_de": "Sandsturm",
+    "class": "status",
+    "type": "rock"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Sand Tomb",
+    "name_de": "Sandgrab",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Sappy Seed",
+    "name_de": "Sprießbomben",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Savage Spin-Out",
+    "name_de": "Wirbelnder Insektenhieb",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Savage Spin-Out",
+    "name_de": "Wirbelnder Insektenhieb",
+    "class": "special",
+    "type": "bug"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Scald",
+    "name_de": "Siedewasser",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Scale Shot",
+    "name_de": "Schuppenschuss",
+    "class": "physical",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Scary Face",
+    "name_de": "Grimasse",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Scorching Sands",
+    "name_de": "Brandsand",
+    "class": "special",
+    "type": "ground"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Scratch",
+    "name_de": "Kratzer",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Screech",
+    "name_de": "Kreideschrei",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Searing Shot",
+    "name_de": "Flammenball",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Searing Sunraze Smash",
+    "name_de": "Schmetternde Sonnenwalze",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Secret Power",
+    "name_de": "Geheimpower",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Secret Sword",
+    "name_de": "Mystoschwert",
+    "class": "special",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Seed Bomb",
+    "name_de": "Samenbomben",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Seed Flare",
+    "name_de": "Schocksamen",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Seismic Toss",
+    "name_de": "Geowurf",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Self-Destruct",
+    "name_de": "Finale",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Shadow Ball",
+    "name_de": "Spukball",
+    "class": "special",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Blast",
+    "name_de": "Cryptostrahl",
+    "class": "physical",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Blitz",
+    "name_de": "Cryptoknall",
+    "class": "physical",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Bolt",
+    "name_de": "Cryptoblitz",
+    "class": "special",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Shadow Bone",
+    "name_de": "Schattenknochen",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Break",
+    "name_de": "Cryptohieb",
+    "class": "physical",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Chill",
+    "name_de": "Cryptofrost",
+    "class": "special",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Shadow Claw",
+    "name_de": "Dunkelklaue",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Down",
+    "name_de": "Cryptobann",
+    "class": "status",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow End",
+    "name_de": "Cryptoretour",
+    "class": "physical",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Fire",
+    "name_de": "Cryptofeuer",
+    "class": "special",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Shadow Force",
+    "name_de": "Schemenkraft",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Half",
+    "name_de": "Cryptozorn",
+    "class": "special",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Hold",
+    "name_de": "Cryptofessel",
+    "class": "status",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Mist",
+    "name_de": "Cryptodunst",
+    "class": "status",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Panic",
+    "name_de": "Cryptochaos",
+    "class": "status",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Punch",
+    "name_de": "Finsterfaust",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Rave",
+    "name_de": "Cryptobeben",
+    "class": "special",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Rush",
+    "name_de": "Cryptoschlag",
+    "class": "physical",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Shed",
+    "name_de": "Cryptobruch",
+    "class": "status",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Sky",
+    "name_de": "Cryptowetter",
+    "class": "status",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Shadow Sneak",
+    "name_de": "Schattenstoß",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Storm",
+    "name_de": "Cryptosturm",
+    "class": "special",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shadow Wave",
+    "name_de": "Cryptowelle",
+    "class": "special",
+    "type": "shadow"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Sharpen",
+    "name_de": "Schärfer",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Shattered Psyche",
+    "name_de": "Psycho-Schmetterschlag",
+    "class": "physical",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Shattered Psyche",
+    "name_de": "Psycho-Schmetterschlag",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Shed Tail",
+    "name_de": "Schwanzabwurf",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Sheer Cold",
+    "name_de": "Eiseskälte",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Shell Side Arm",
+    "name_de": "Muschelwaffe",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Shell Smash",
+    "name_de": "Hausbruch",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Shell Trap",
+    "name_de": "Panzerfalle",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Shelter",
+    "name_de": "Refugium",
+    "class": "status",
+    "type": "steel"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Shift Gear",
+    "name_de": "Gangwechsel",
+    "class": "status",
+    "type": "steel"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Shock Wave",
+    "name_de": "Schockwelle",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Shore Up",
+    "name_de": "Sandsammler",
+    "class": "status",
+    "type": "ground"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Signal Beam",
+    "name_de": "Ampelleuchte",
+    "class": "special",
+    "type": "bug"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Silk Trap",
+    "name_de": "Fadenfalle",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Silver Wind",
+    "name_de": "Silberhauch",
+    "class": "special",
+    "type": "bug"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Simple Beam",
+    "name_de": "Wankelstrahl",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Sing",
+    "name_de": "Gesang",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Sinister Arrow Raid",
+    "name_de": "Schatten-Pfeilregen",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Sizzly Slide",
+    "name_de": "Flackerbrand",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Sketch",
+    "name_de": "Nachahmer",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Skill Swap",
+    "name_de": "Fähigkeitstausch",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Skitter Smack",
+    "name_de": "Krabbelkracher",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Skull Bash",
+    "name_de": "Schädelwumme",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Sky Attack",
+    "name_de": "Himmelsfeger",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Sky Drop",
+    "name_de": "Freier Fall",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Sky Uppercut",
+    "name_de": "Himmelhieb",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Slack Off",
+    "name_de": "Tagedieb",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Slam",
+    "name_de": "Slam",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Slash",
+    "name_de": "Schlitzer",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Sleep Powder",
+    "name_de": "Schlafpuder",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Sleep Talk",
+    "name_de": "Schlafrede",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Sludge",
+    "name_de": "Schlammbad",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Sludge Bomb",
+    "name_de": "Matschbombe",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Sludge Wave",
+    "name_de": "Schlammwoge",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Smack Down",
+    "name_de": "Katapult",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Smart Strike",
+    "name_de": "Schmalhorn",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Smelling Salts",
+    "name_de": "Riechsalz",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Smog",
+    "name_de": "Smog",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Smokescreen",
+    "name_de": "Rauchwolke",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Snap Trap",
+    "name_de": "Fangeisen",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Snarl",
+    "name_de": "Standpauke",
+    "class": "special",
+    "type": "dark"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Snatch",
+    "name_de": "Übernahme",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Snipe Shot",
+    "name_de": "Präzisionsschuss",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Snore",
+    "name_de": "Schnarcher",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Snowscape",
+    "name_de": "Schneelandschaft",
+    "class": "status",
+    "type": "ice"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Soak",
+    "name_de": "Überflutung",
+    "class": "status",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Soft-Boiled",
+    "name_de": "Weichei",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Solar Beam",
+    "name_de": "Solarstrahl",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Solar Blade",
+    "name_de": "Solarklinge",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Sonic Boom",
+    "name_de": "Ultraschall",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Soul-Stealing 7-Star Strike",
+    "name_de": "Sternbild des Seelenraubes",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Spacial Rend",
+    "name_de": "Raumschlag",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Spark",
+    "name_de": "Funkensprung",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Sparkling Aria",
+    "name_de": "Schaumserenade",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Sparkly Swirl",
+    "name_de": "Glitzersturm",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Spectral Thief",
+    "name_de": "Diebesschatten",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Speed Swap",
+    "name_de": "Initiativetausch",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Spicy Extract",
+    "name_de": "Chili-Essenz",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Spider Web",
+    "name_de": "Spinnennetz",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Spike Cannon",
+    "name_de": "Dornkanone",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Spikes",
+    "name_de": "Stachler",
+    "class": "status",
+    "type": "ground"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Spiky Shield",
+    "name_de": "Schutzstacheln",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Spin Out",
+    "name_de": "Reifendrehung",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Spirit Break",
+    "name_de": "Seelenbruch",
+    "class": "physical",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Spirit Shackle",
+    "name_de": "Schattenfessel",
+    "class": "physical",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Spite",
+    "name_de": "Groll",
+    "class": "status",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Spit Up",
+    "name_de": "Entfessler",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Splash",
+    "name_de": "Platscher",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Splintered Stormshards",
+    "name_de": "Fataler Steinregen",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Splishy Splash",
+    "name_de": "Plätschersurfer",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Spore",
+    "name_de": "Pilzspore",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Spotlight",
+    "name_de": "Rampenlicht",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Springtide Storm",
+    "name_de": "Frühlingsorkan",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Stealth Rock",
+    "name_de": "Tarnsteine",
+    "class": "status",
+    "type": "rock"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Steam Eruption",
+    "name_de": "Dampfschwall",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Steamroller",
+    "name_de": "Quetschwalze",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Steel Beam",
+    "name_de": "Stahlstrahl",
+    "class": "special",
+    "type": "steel"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Steel Roller",
+    "name_de": "Eisenwalze",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Steel Wing",
+    "name_de": "Stahlflügel",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Sticky Web",
+    "name_de": "Klebenetz",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Stockpile",
+    "name_de": "Horter",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Stoked Sparksurfer",
+    "name_de": "Blitz-Wellenritt",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Stomp",
+    "name_de": "Stampfer",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Stomping Tantrum",
+    "name_de": "Fruststampfer",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Stone Axe",
+    "name_de": "Felsaxt",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Stone Edge",
+    "name_de": "Steinkante",
+    "class": "physical",
+    "type": "rock"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Stored Power",
+    "name_de": "Kraftvorrat",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Storm Throw",
+    "name_de": "Bergsturm",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Strange Steam",
+    "name_de": "Wunderdampf",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Strength",
+    "name_de": "Stärke",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Strength Sap",
+    "name_de": "Kraftabsorber",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "String Shot",
+    "name_de": "Fadenschuss",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Struggle",
+    "name_de": "Verzweifler",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Struggle Bug",
+    "name_de": "Käfertrutz",
+    "class": "special",
+    "type": "bug"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Stuff Cheeks",
+    "name_de": "Backenstopfer",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Stun Spore",
+    "name_de": "Stachelspore",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Submission",
+    "name_de": "Überroller",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Substitute",
+    "name_de": "Delegator",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Subzero Slammer",
+    "name_de": "Tobender Geofrost",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Subzero Slammer",
+    "name_de": "Tobender Geofrost",
+    "class": "special",
+    "type": "ice"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Sucker Punch",
+    "name_de": "Tiefschlag",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Sunny Day",
+    "name_de": "Sonnentag",
+    "class": "status",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Sunsteel Strike",
+    "name_de": "Stahlgestirn",
+    "class": "physical",
+    "type": "steel"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Supercell Slam",
+    "name_de": "Donnerstoß",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Super Fang",
+    "name_de": "Superzahn",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Superpower",
+    "name_de": "Kraftkoloss",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Supersonic",
+    "name_de": "Superschall",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Supersonic Skystrike",
+    "name_de": "Finaler Steilflug",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Supersonic Skystrike",
+    "name_de": "Finaler Steilflug",
+    "class": "special",
+    "type": "flying"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Surf",
+    "name_de": "Surfer",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Surging Strikes",
+    "name_de": "Trefferschwall",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Swagger",
+    "name_de": "Angeberei",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Swallow",
+    "name_de": "Verzehrer",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Sweet Kiss",
+    "name_de": "Bitterkuss",
+    "class": "status",
+    "type": "fairy",
+    "changes": [
+      {
+        "prior_to_generation": 6,
+        "type": "normal"
+      }
+    ]
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Sweet Scent",
+    "name_de": "Lockduft",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Swift",
+    "name_de": "Sternschauer",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Switcheroo",
+    "name_de": "Wechseldich",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Swords Dance",
+    "name_de": "Schwerttanz",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Synchronoise",
+    "name_de": "Synchrolärm",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Synthesis",
+    "name_de": "Synthese",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Syrup Bomb",
+    "name_de": "Sirupbombe",
+    "class": "special",
+    "type": "grass"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Tachyon Cutter",
+    "name_de": "Tachyon-Schnitt",
+    "class": "special",
+    "type": "steel"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Tackle",
+    "name_de": "Tackle",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Tail Glow",
+    "name_de": "Schweifglanz",
+    "class": "status",
+    "type": "bug"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Tail Slap",
+    "name_de": "Kehrschelle",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Tail Whip",
+    "name_de": "Rutenschlag",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Tailwind",
+    "name_de": "Rückenwind",
+    "class": "status",
+    "type": "flying"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Take Down",
+    "name_de": "Bodycheck",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Take Heart",
+    "name_de": "Mutschub",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Tar Shot",
+    "name_de": "Teerschuss",
+    "class": "status",
+    "type": "rock"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Taunt",
+    "name_de": "Verhöhner",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Tearful Look",
+    "name_de": "Tränendrüse",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Teatime",
+    "name_de": "Teatime",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Techno Blast",
+    "name_de": "Techblaster",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Tectonic Rage",
+    "name_de": "Seismische Eruption",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Tectonic Rage",
+    "name_de": "Seismische Eruption",
+    "class": "special",
+    "type": "ground"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Teeter Dance",
+    "name_de": "Taumeltanz",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Telekinesis",
+    "name_de": "Telekinese",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Teleport",
+    "name_de": "Teleport",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Temper Flare",
+    "name_de": "Frustflamme",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Tera Blast",
+    "name_de": "Tera-Ausbruch",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Tera Starstorm",
+    "name_de": "Tera-Sternhagel",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Terrain Pulse",
+    "name_de": "Feldimpuls",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Thief",
+    "name_de": "Raub",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Thousand Arrows",
+    "name_de": "Tausend Pfeile",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Thousand Waves",
+    "name_de": "Tausend Wellen",
+    "class": "physical",
+    "type": "ground"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Thrash",
+    "name_de": "Fuchtler",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Throat Chop",
+    "name_de": "Neck Strike",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Thunder",
+    "name_de": "Donner",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Thunderbolt",
+    "name_de": "Donnerblitz",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Thunder Cage",
+    "name_de": "Blitzgefängnis",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Thunderclap",
+    "name_de": "Sturmblitz",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Thunder Fang",
+    "name_de": "Donnerzahn",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Thunderous Kick",
+    "name_de": "Donnernder Tritt",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Thunder Punch",
+    "name_de": "Donnerschlag",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Thunder Shock",
+    "name_de": "Donnerschock",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Thunder Wave",
+    "name_de": "Donnerwelle",
+    "class": "status",
+    "type": "electric"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Tickle",
+    "name_de": "Spaßkanone",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Tidy Up",
+    "name_de": "Aufräumen",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Topsy-Turvy",
+    "name_de": "Invertigo",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Torch Song",
+    "name_de": "Loderlied",
+    "class": "special",
+    "type": "fire"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Torment",
+    "name_de": "Folterknecht",
+    "class": "status",
+    "type": "dark"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Toxic",
+    "name_de": "Toxin",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Toxic Spikes",
+    "name_de": "Giftspitzen",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Toxic Thread",
+    "name_de": "Giftfaden",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Trailblaze",
+    "name_de": "Wegbereiter",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Transform",
+    "name_de": "Wandler",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Tri Attack",
+    "name_de": "Triplette",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Trick",
+    "name_de": "Trickbetrug",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Trick-or-Treat",
+    "name_de": "Halloween",
+    "class": "status",
+    "type": "ghost"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Trick Room",
+    "name_de": "Bizarroraum",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Triple Arrows",
+    "name_de": "Drillingspfeile",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Triple Axel",
+    "name_de": "Dreifach-Axel",
+    "class": "physical",
+    "type": "ice"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Triple Dive",
+    "name_de": "Tauchtriade",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Triple Kick",
+    "name_de": "Dreifachkick",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Trop Kick",
+    "name_de": "Tropenkick",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Trump Card",
+    "name_de": "Trumpfkarte",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Twin Beam",
+    "name_de": "Doppelstrahl",
+    "class": "special",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Twineedle",
+    "name_de": "Duonadel",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Twinkle Tackle",
+    "name_de": "Entzückender Sternenstoß",
+    "class": "physical",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Twinkle Tackle",
+    "name_de": "Entzückender Sternenstoß",
+    "class": "special",
+    "type": "fairy"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Twister",
+    "name_de": "Windhose",
+    "class": "special",
+    "type": "dragon"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Upper Hand",
+    "name_de": "Schnellkonter",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Uproar",
+    "name_de": "Aufruhr",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "U-turn",
+    "name_de": "Kehrtwende",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Vacuum Wave",
+    "name_de": "Vakuumwelle",
+    "class": "special",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "V-create",
+    "name_de": "V-Generator",
+    "class": "physical",
+    "type": "fire"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Veevee Volley",
+    "name_de": "Evo-Crash",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Venom Drench",
+    "name_de": "Giftfalle",
+    "class": "status",
+    "type": "poison"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Venoshock",
+    "name_de": "Giftschock",
+    "class": "special",
+    "type": "poison"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Vise Grip",
+    "name_de": "Klammer",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Victory Dance",
+    "name_de": "Siegestanz",
+    "class": "status",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Vine Whip",
+    "name_de": "Rankenhieb",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Vital Throw",
+    "name_de": "Überwurf",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Volt Switch",
+    "name_de": "Voltwechsel",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Volt Tackle",
+    "name_de": "Volttackle",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Wake-Up Slap",
+    "name_de": "Weckruf",
+    "class": "physical",
+    "type": "fighting"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Waterfall",
+    "name_de": "Kaskade",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Water Gun",
+    "name_de": "Aquaknarre",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Water Pledge",
+    "name_de": "Wassersäulen",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Water Pulse",
+    "name_de": "Aquawelle",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 6,
+    "name_en": "Water Shuriken",
+    "name_de": "Wasser-Shuriken",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Water Sport",
+    "name_de": "Nassmacher",
+    "class": "status",
+    "type": "water"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Water Spout",
+    "name_de": "Fontränen",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Wave Crash",
+    "name_de": "Wellentackle",
+    "class": "physical",
+    "type": "water"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Weather Ball",
+    "name_de": "Meteorologe",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Whirlpool",
+    "name_de": "Whirlpool",
+    "class": "special",
+    "type": "water"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Whirlwind",
+    "name_de": "Wirbelwind",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Wicked Blow",
+    "name_de": "Finstertreffer",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 9,
+    "name_en": "Wicked Torque",
+    "name_de": "Finsterturbo",
+    "class": "physical",
+    "type": "dark"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Wide Guard",
+    "name_de": "Rundumschutz",
+    "class": "status",
+    "type": "rock"
+  },
+  {
+    "since_generation": 8,
+    "name_en": "Wildbolt Storm",
+    "name_de": "Donnerorkan",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Wild Charge",
+    "name_de": "Stromstoß",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Will-O-Wisp",
+    "name_de": "Irrlicht",
+    "class": "status",
+    "type": "fire"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Wing Attack",
+    "name_de": "Flügelschlag",
+    "class": "physical",
+    "type": "flying"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Wish",
+    "name_de": "Wunschtraum",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Withdraw",
+    "name_de": "Panzerschutz",
+    "class": "status",
+    "type": "water"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Wonder Room",
+    "name_de": "Wunderraum",
+    "class": "status",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Wood Hammer",
+    "name_de": "Holzhammer",
+    "class": "physical",
+    "type": "grass"
+  },
+  {
+    "since_generation": 5,
+    "name_en": "Work Up",
+    "name_de": "Kraftschub",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Worry Seed",
+    "name_de": "Sorgensamen",
+    "class": "status",
+    "type": "grass"
+  },
+  {
+    "since_generation": 1,
+    "name_en": "Wrap",
+    "name_de": "Wickel",
+    "class": "physical",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Wring Out",
+    "name_de": "Auswringen",
+    "class": "special",
+    "type": "normal"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "X-Scissor",
+    "name_de": "Kreuzschere",
+    "class": "physical",
+    "type": "bug"
+  },
+  {
+    "since_generation": 3,
+    "name_en": "Yawn",
+    "name_de": "Gähner",
+    "class": "status",
+    "type": "normal"
+  },
+  {
+    "since_generation": 2,
+    "name_en": "Zap Cannon",
+    "name_de": "Blitzkanone",
+    "class": "special",
+    "type": "electric"
+  },
+  {
+    "since_generation": 4,
+    "name_en": "Zen Headbutt",
+    "name_de": "Zen-Kopfstoß",
+    "class": "physical",
+    "type": "psychic"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Zing Zap",
+    "name_de": "Elektropikser",
+    "class": "physical",
+    "type": "electric"
+  },
+  {
+    "since_generation": 7,
+    "name_en": "Zippy Zap",
+    "name_de": "Britzelturbo",
+    "class": "physical",
+    "type": "electric"
+  }
+]
