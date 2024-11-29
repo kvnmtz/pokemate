@@ -74,7 +74,6 @@
     "errorNotLoggedIn": "You are not logged in.",
     "errorWhileInitializing": "Error while loading data.",
     "errorDetails": "Error details",
-    "showDetails": "Details",
     "successSaveTeam": "The team has been saved.",
     "successLoadTeam": "The selected team has been loaded.",
     "viewingOutdatedVersion": "You're seeing an outdated version",

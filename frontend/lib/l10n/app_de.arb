@@ -74,7 +74,6 @@
     "errorNotLoggedIn": "Du bist nicht angemeldet.",
     "errorWhileInitializing": "Fehler während des Ladevorgangs.",
     "errorDetails": "Fehlerdetails",
-    "showDetails": "Details",
     "successSaveTeam": "Das Team wurde gespeichert.",
     "successLoadTeam": "Das gewählte Team wurde geladen.",
     "viewingOutdatedVersion": "Du siehst eine veraltete Version",
