@@ -1,0 +1,36 @@
+name: Deploy App
+
+on:
+  release:
+    types: [published]  # Triggers when a new release is published
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v0.1.6
+        env:
+          RELEASE_CONTEXT: ${{ toJson(github.event.release) }}
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_KEY }}
+          envs: RELEASE_CONTEXT
+          script_stop: true
+          script: |
+            APP_NAME="pokemate"
+            ASSET_NAME="pokemate-web.zip"
+
+            cd /var/www/$APP_NAME
+            pm2 stop $APP_NAME | grep -v -e "│" -e "─" || true
+            pm2 delete $APP_NAME | grep -v -e "│" -e "─" || true
+            find . ! -name '.env' -type f -exec rm -f {} +
+            find . ! -name . -type d -exec rm -rf {} +
+            ASSET_ID=$(echo $RELEASE_CONTEXT | jq -r --arg asset_name "$ASSET_NAME" '.assets[] | select(.name == $asset_name) | .id')
+            curl -L -o $ASSET_NAME -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -H "Accept: application/octet-stream" https://api.github.com/repos/${{ github.repository }}/releases/assets/$ASSET_ID
+            unzip $ASSET_NAME
+            rm $ASSET_NAME
+            npm i
+            pm2 start npm --name "$APP_NAME" -- run start | grep -v -e "│" -e "─"

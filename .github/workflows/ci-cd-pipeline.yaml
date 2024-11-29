@@ -9,8 +9,7 @@ permissions:
 
 jobs:
   build:
-    # "flutter build windows" only works on windows machines
-    runs-on: windows-latest
+    runs-on: windows-latest # "flutter build windows" only works on windows machines
 
     permissions:
       contents: write # to be able to publish a GitHub release
@@ -62,5 +61,5 @@ jobs:
       
       - name: Build & Release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # GH Actions will not trigger a release published event if the default token is used...
         run: npx semantic-release
